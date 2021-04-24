@@ -1,0 +1,47 @@
+{
+    "希望，没钻，钻不够，抽，井": {
+        "text": "希望钻没事🙏",
+        "pic": "",
+        "probability": 0.2
+    },
+    "惨，哭了，泪目": {
+        "text": "",
+        "pic": "他说风雨中这点痛算什么.gif",
+        "probability": 0.2
+    },
+    "啊啊，哼，臭": {
+        "text": "",
+        "pic": "你们吵得我睡不着了.jpg",
+        "probability": 0.2
+    },
+    "我有个朋友，我朋友，我的一个朋友，我的朋友": {
+        "text": "",
+        "pic": "你说的这个朋友到底是不是你自己.jpg",
+        "probability": 0.3
+    },
+    "确实，qs，有一说一，u1s1，yysy":{
+        "text":"",
+        "pic":"确实.jpg",
+        "probability":0.2
+    },
+    "会战，出刀，催刀":{
+        "text":"",
+        "pic":"我的天啊你看看都几点了.jpg",
+        "probability":0.2
+    },
+    "内鬼":{
+        "text":"",
+        "pic":"内鬼.png",
+        "probability":0.2
+    },
+    "冠军":{
+        "text":"🏆",
+        "pic":"",
+        "probability":0.3
+    },
+    "沉，脸黑，非洲，太非了，抽不到":{
+        "text":"",
+        "pic":"我觉得一定是游戏的问题.jpg",
+        "probability":0.2
+    }
+}
